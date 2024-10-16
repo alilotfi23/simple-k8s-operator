@@ -1,7 +1,7 @@
 
 # k8s Operator with my name
 
-The **Ali Lotfi Operator** is a Kubernetes operator that manages deployment of pods based on a custom resource definition (CRD) named `helloworlds`. This README provides an overview of the project, installation instructions, and usage examples.
+The **Ali Lotfi Operator** is a Kubernetes operator that manages the deployment of pods based on a custom resource definition (CRD) named `helloworlds`. This README overviews the project, installation instructions, and usage examples.
 
 ## Overview
 
